@@ -11,7 +11,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/rock-paper-scissors-game.git
+git clone https://github.com/VivekMishra21/Rock-Paper-Scissors-Game.git
 Open the project in an IDE like IntelliJ IDEA or any text editor.
 Run the program.
 Follow the instructions displayed in the console to select your choice.
@@ -32,7 +32,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/rock-paper-scissors-game.git
+git clone https://github.com/VivekMishra21/Rock-Paper-Scissors-Game.git
 Open the project in an IDE like IntelliJ IDEA or any text editor.
 Run the program.
 Follow the instructions displayed in the console to select your choice.
